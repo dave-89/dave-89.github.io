@@ -9,7 +9,9 @@ img.resize{
    border:2px solid #021a40;
 }
 div.moveRight {
-	padding-right: 10px
+	position: relative;
+	right: -20px;
+	bottom: -10px;
 }
 </style>
 <article class="post">
@@ -20,8 +22,8 @@ div.moveRight {
   
   <img class="resize" src="/static/me.JPG" alt="" />
 
-  <div class="post-content">
-    {{ content }}
+  <div class="post-content moveRight">
+     {{ content }}
   </div>
 
 </article>
