@@ -6,3 +6,5 @@ static
 *.md
 *.yml
 *~
+.sass-cache
+jekyll/
