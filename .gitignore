@@ -1,7 +1,8 @@
-_include
+_includes
 _layouts
-_post_bak
+_posts_bak
 _sass
 static
 *.md
 *.yml
+*~
