@@ -1,0 +1,10 @@
+_includes
+_layouts
+_posts_bak
+_sass
+static
+*.md
+*.yml
+*~
+.sass-cache
+jekyll/
