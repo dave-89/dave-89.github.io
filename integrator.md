@@ -82,12 +82,12 @@ permalink: /integrator/
   Example: <br>
   <i>
   {
+  	"functionVal" : "-x-0.3*x1",
 	"x0Val":"0.0",
 	"p0Val":"1.0",
 	"t0Val":"0.0",
 	"t1Val":"5.0",
-	"dtVal":"0.1",
-	"functionVal":"-x^2"
+	"dtVal":"0.1"
 }
     </i>
   Note: the ratio <i>(t_1-t_2)/dt</i> cannot be larger than 5000. The parameter <i>dt</i> is rescaled in order to satifsy such constraint.
