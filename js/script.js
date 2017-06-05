@@ -71,7 +71,7 @@ $(document).ready(function() {
 
 
         var req = $.ajax({
-            url: 'http://0.0.0.0:5000/plot',
+            url: 'https://runge.herokuapp.com/plot',
             type: 'POST',
             contentType: 'application/json',
             data: params,
