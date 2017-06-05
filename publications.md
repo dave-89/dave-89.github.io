@@ -6,7 +6,7 @@ permalink: /publications/
 
 Here it is the list of my publications:
 
-  - Entanglement entrophy in integrable quantum systems, [City, University of London](http://openaccess.city.ac.uk/17490/), 2017, ([pdf](http://openaccess.city.ac.uk/17490/1/Bianchini%2C%20Davide.pdf))
+  - Entanglement entrophy in integrable quantum systems, [PhD Thesis - City, University of London](http://openaccess.city.ac.uk/17490/), 2017, ([pdf](http://openaccess.city.ac.uk/17490/1/Bianchini%2C%20Davide.pdf))
   - Branch Point Twist Field Correlators in the Massive Free Boson Theory, [Nuclear Physics B](http://www.sciencedirect.com/science/article/pii/S0550321316303182), 2016, ([ArXiV](https://arxiv.org/abs/1607.05656))
   - Entanglement Entropy from Corner Transfer Matrix in Forrester Baxter non-unitary RSOS models, [Journal of Physics A](http://iopscience.iop.org/article/10.1088/1751-8113/49/15/154005), 2015, ([ArXiV](https://arxiv.org/abs/1509.04601))
   - Entanglement Entropy of Non-Unitary Integrable Quantum Field Theory, [Nuclear Physics B](http://www.sciencedirect.com/science/article/pii/S055032131500173X), 2015, ([ArXiV](https://arxiv.org/abs/1502.03275))
