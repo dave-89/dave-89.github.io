@@ -10,16 +10,6 @@
     
 	<atom:link href="https://drdave89.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://drdave89.co.uk/posts/hello/</link>
-      <pubDate>Sat, 27 Oct 2018 10:44:03 +0100</pubDate>
-      
-      <guid>https://drdave89.co.uk/posts/hello/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Runge-Kutta Integrator</title>
       <link>https://drdave89.co.uk/posts/integrator/</link>
