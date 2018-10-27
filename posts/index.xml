@@ -6,9 +6,10 @@
     <description>Recent content in Posts on Davide Bianchini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 27 Oct 2018 10:44:03 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 22:46:07 +0100</lastBuildDate>
     
 	<atom:link href="https://drdave89.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Runge-Kutta Integrator</title>
@@ -16,8 +17,8 @@
       <pubDate>Tue, 16 May 2017 22:46:07 +0100</pubDate>
       
       <guid>https://drdave89.co.uk/posts/integrator/</guid>
-      <description>When I was an undergrad student, I&amp;rsquo;ve always been fascinated by ODE (Ordinary Differential Equation) numerical integrators. These algorithm are able to solve complex ODE, which can be used to describe - among many other things - the motion of body in space.
-Among the various algorythm, I had my favourite: Runge-Kutta. Even though is not symplectic (the preservation of the constants of motions is not guaranteed by contruction), it offers very precise results.</description>
+      <description>When I was an undergrad student, I&amp;rsquo;ve always been fascinated by ODE (Ordinary Differential Equation) numerical integrators. These algorithms are able to solve complex ODE, which can be used to describe - among many other things - the motion of body in space.
+Among the various algorythms, I had my favourite: Runge-Kutta. Even though is not symplectic (the preservation of the constants of motions is not guaranteed by contruction), it offers very precise results.</description>
     </item>
     
   </channel>
