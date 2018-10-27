@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Davide Bianchini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 16 May 2017 22:46:07 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2016 22:46:07 +0100</lastBuildDate>
     
 	<atom:link href="https://drdave89.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Runge-Kutta Integrator</title>
       <link>https://drdave89.co.uk/posts/integrator/</link>
-      <pubDate>Tue, 16 May 2017 22:46:07 +0100</pubDate>
+      <pubDate>Thu, 24 Nov 2016 22:46:07 +0100</pubDate>
       
       <guid>https://drdave89.co.uk/posts/integrator/</guid>
       <description>When I was an undergrad student, I&amp;rsquo;ve always been fascinated by ODE (Ordinary Differential Equation) numerical integrators. These algorithms are able to solve complex ODE, which can be used to describe - among many other things - the motion of body in space.
