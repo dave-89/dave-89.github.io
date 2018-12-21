@@ -1,0 +1,10 @@
+---
+title: "Content Security Policy - CSP"
+date: 2018-10-27T23:12:59+01:00
+draft: true
+---
+
+Cross-site-scripting (XSS) vulnerabilities have been annoying many web developers for a number of years. OWASP has a [nice page](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)) explaining this issue in details. In simple words, attackers could trick victims browser to load (and execute) malicious content. 
+
+Historically, front-end developers mitigated XSS by validating/escaping/sanitising/encoding dynamically created components. Unfortunately these approaches (especially validation) are prone to errors, and sometimes can be bypassed. Luckyly 
+
